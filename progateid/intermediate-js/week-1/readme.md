@@ -1,3 +1,5 @@
 # Pelajaran Minggu Pertama
-- Refresh Basic JS
-- Manipulasi DOM
+
+- pelajaran dasar js 
+- document object model
+- 
