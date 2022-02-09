@@ -1,2 +1,2 @@
-- (FizzBuzz)[/bootcamps/progateid/intermediate-js/week-1/dom/horoscope/] 
-- (Horoscope)[/bootcamps/progateid/intermediate-js/week-1/dom/horoscope/]
+- [FizzBuzz](/bootcamps/progateid/intermediate-js/week-1/dom/horoscope/)
+- [Horoscope](/bootcamps/progateid/intermediate-js/week-1/dom/horoscope/)
