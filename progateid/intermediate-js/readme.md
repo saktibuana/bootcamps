@@ -1,6 +1,6 @@
 # Intermedate JS bersama Progate Indonesia
 ## Tugas Mingguan 
-- [Minggu Pertama / DOM](https://docs.python.org/3/)
-- [Minggu Kedua / AJAX](https://docs.python.org/3/)
-- [Minggu Ketiga / Open API](https://docs.python.org/3/)
-- [Minggu Keempat / Final](https://docs.python.org/3/)
+- [Minggu Pertama / DOM](/week-1/dom/)
+- [Minggu Kedua / AJAX](/week-2/ajax/)
+- [Minggu Ketiga / Open API](/week-3/open-api/)
+- [Minggu Keempat / Final](/week-4/final/)
