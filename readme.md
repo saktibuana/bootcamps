@@ -1,2 +1,2 @@
 # BOOTCAMPS
-- [Progate Indonesia](/progateid/)
+- [Progate Indonesia](progateid/)
