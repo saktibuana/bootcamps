@@ -1,8 +1,8 @@
 # Intermediate JS bersama Progate Indonesia
 ### Batch 2
-### Durasi 4 Minggu
+### Durasi 4 Minggu, Periode Senin, 31 Januari 2022 - Jum'at, 25 Februari 2022 
 ### Mentor [Sakti Buana](https://s.id/saktibuana)
-### Periode Senin, 31 Januari 2022 - Jum'at, 25 Februari 2022 
+### 
 
 #### Kumpulan Tugas  
 - [Tugas Minggu Pertama (Topik: DOM)](/bootcamps/progateid/intermediate-js/week-1/dom/)
